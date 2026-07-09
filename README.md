@@ -1,3 +1,7 @@
 # Portfolio
-Hi, I’m Miguel Duque, and I’m excited to start a new chapter in cybersecurity. I’ve always been passionate about helping people, and with technology becoming such a huge part of our lives, I believe it’s more important than ever for individuals and organizations to protect themselves from scams, threats, and data theft.
-I thrive in teamwork, love solving problems, and pick up new skills quickly. I enjoy collaborating with others to tackle challenges and find smart solutions, and I’m eager to grow in this field so I can make a real difference in keeping people safe online.
+
+Hi, I'm Miguel Duque — a software engineering student passionate about building systems, solving problems, and creating technology that helps people. I enjoy working on projects that combine logic, creativity, and real-world impact, whether it's developing C++ applications, exploring systems programming, or learning new tools that strengthen my engineering foundation.
+
+I thrive in collaborative environments, pick up new skills quickly, and enjoy breaking down complex challenges into clear, practical solutions. My goal is to grow as a software engineer and contribute to teams where I can build reliable systems, learn from others, and make meaningful contributions through code.
+
+This portfolio showcases my projects, learning journey, and the technical skills I'm developing as I prepare for software engineering internships.
